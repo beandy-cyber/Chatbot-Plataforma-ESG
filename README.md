@@ -13,10 +13,8 @@ Esta é uma versão preliminar do chatbot, pois o front-end da plataforma ainda 
 
 ## Design da Plataforma ESG:
 
-O design da Plataforma ESG é limpo, moderno e intuitivo, com foco na facilidade de uso e na experiência do usuário. Abaixo estão os principais aspectos do design:
+O design da Plataforma ESG é limpo, moderno e intuitivo, com foco na facilidade de uso e na experiência do usuário.
 
-- **Paleta de Cores:** Utiliza uma paleta de cores suaves e vibrantes, refletindo os valores de sustentabilidade e responsabilidade social.
-- **Layout Responsivo:** Adota um layout responsivo que se adapta a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente em desktops, tablets e smartphones.
-- **Elementos Visuais Atraentes:** Incorpora elementos visuais atraentes, como ícones personalizados e imagens relacionadas à sustentabilidade, para tornar a experiência do usuário mais envolvente e inspiradora.
+![image](https://github.com/beandy-cyber/Chatbot-Plataforma-ESG/assets/81839782/d65f5464-2e4f-43d7-9b59-6f8700a3b2d4)
 
 Combinando esses elementos de design, a Plataforma ESG visa proporcionar aos usuários uma experiência agradável e significativa, incentivando o engajamento e a participação ativa na comunidade de sustentabilidade e responsabilidade social.
